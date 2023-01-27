@@ -1,0 +1,14 @@
+p.first::after{
+  content: "hello, first";
+  color: green;
+  background-color: #FFBA10
+}
+
+p[some-attr]:hover::after {
+  content: attr(some-attr);
+  background-color: red;
+}
+
+.back-red {
+  background-color:   red;
+}

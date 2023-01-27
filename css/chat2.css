@@ -1,0 +1,30 @@
+
+#frame {
+  background: #E6EAEA;
+}
+
+.profile-icon {
+  max-height: 50px;
+}
+
+.chat-icon {
+  max-height: 30px;
+}
+
+.popover-body {
+  /*background-color: #343a40;*/
+  background-color: #d6d8db;
+}
+
+div.container {
+  /*height: 400px;*/
+}
+
+footer {
+  bottom: 0;
+  left: 0;
+}
+
+aside section.contacts {
+  height: 400px;
+}
